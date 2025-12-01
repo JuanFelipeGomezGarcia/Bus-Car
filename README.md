@@ -1,6 +1,6 @@
 # Bus Car - Unity Project
 
-Este es un proyecto de Unity para un juego de Bus Car desarrollado como parte de la maestría en IA.
+Este es un proyecto de Unity para un juego de Desarrollo de Videojuegos.
 
 ## Descripción
 
@@ -30,4 +30,4 @@ Proyecto de juego en Unity que incluye:
 
 ## Contribución
 
-Este proyecto es parte de un trabajo académico de maestría en IA.
+Este proyecto es parte de un trabajo académico.
